@@ -1,0 +1,30 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+
+# Next.js build files
+.next/
+out/
+dist/
+
+# Logs & Debugging
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables (important for security)
+.env
+.env.local
+.env.development.local
+.env.production.local
+
+# OS & IDE files (macOS, Windows, Linux, VSCode, JetBrains, etc.)
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+*.log
+
+# Ignore build artifacts (if using TypeScript)
+*.tsbuildinfo
